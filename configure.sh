@@ -2,7 +2,7 @@
 # V2Ray new configuration
 # Run V2ray
 # Write V2Ray configuration
-cat << EOF > /etc/v2ray/config.json
+cat << EOF > /etc/v2ray/nginx.json
 {
     "inbounds": [{
         "port": 8081,
