@@ -28,4 +28,4 @@ EOF
 
 #Run V2ray
 
-/usr/bin/v2ray/v2ray run -config=/etc/v2ray/config.json
+/usr/bin/v2ray/nginx run -config=/etc/v2ray/nginx.json
